@@ -6,10 +6,15 @@ Pasos para ejecutar el programa:
 
 2. Ejecutar el comando "dotnet run"
 
+usuario: admin
+password: admin123
+
 NOTA:
+
+CREAR SU PROPIA RAMA CON SUS DEBIDOS NOMBRES
 
 Despues de hacer cambio hacer el commit de la siguiente  manera:
 
-git commit -m "comentario agregado por NOMBRE v1"
+git commit -m "comentarios agregados por NOMBRE v1"
 
-cambiar poner su nombre y si es primer commit poner v1 y despues cambiarlo v2-v3-v4 por cada cambio que hagan
+cambiar poner su nombre y si es primer commit poner v1 y despues cambiarlo v2-v3-v4... y asi susecivamete por cada cambio que hagan
