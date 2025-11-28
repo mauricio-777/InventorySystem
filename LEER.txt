@@ -1,0 +1,15 @@
+=====IMPORTANTE=====
+
+Pasos para ejecutar el programa:
+
+1. Ingresar a la terminal
+
+2. Ejecutar el comando "dotnet run"
+
+NOTA:
+
+Despues de hacer cambio hacer el commit de la siguiente  manera:
+
+git commit -m "comentario agregado por NOMBRE v1"
+
+cambiar poner su nombre y si es primer commit poner v1 y despues cambiarlo v2-v3-v4 por cada cambio que hagan
